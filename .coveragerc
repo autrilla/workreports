@@ -1,0 +1,3 @@
+[run]
+source = workreports
+omit = workreports/test*

@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = workreports:main
+      [console_scripts]
+      initialize_workreports_db = workreports.scripts.initializedb:main
+      
